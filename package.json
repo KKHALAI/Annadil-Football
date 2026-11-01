@@ -1,0 +1,9 @@
+{
+  "name": "annadil-football",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Annadil Football – session voting, fair cost sharing and payments",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
